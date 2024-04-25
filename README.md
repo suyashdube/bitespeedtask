@@ -1,4 +1,4 @@
-# identity-api
+# identify-api
 Working backend app for exposing the /identify endpoint. Hosted on: https://bitespeedtask.onrender.com
 Demo:
 <img width="998" alt="Screenshot 2024-04-25 at 11 19 03 AM" src="https://github.com/suyashdube/bitespeedtask/assets/88726963/f5505478-fa6d-4a8b-9315-48c74eaa6f81">
